@@ -5,21 +5,16 @@ repo: status-check # The name of this repository
 sites:
   - name: Hiway Media website
     url: https://hiway.media
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: hiway-media.github.io
   baseUrl: /status-check
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status HiWay Media
+  introTitle: "**HiWay Media** Status Dashboard."
+  introMessage: " "
   navbar:
     - title: Status
       href: /
