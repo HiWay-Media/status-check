@@ -21,7 +21,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-
 commitMessages:
   commitAuthorName: "HiWay Media"
   commitAuthorEmail: "github-bot@hiway.media"
