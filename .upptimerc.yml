@@ -21,5 +21,13 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+
+commitMessages:
+  commitAuthorName: "HiWay Media"
+  commitAuthorEmail: "github-bot@hiway.media"
+
+i18n:
+  footer: "If you are experiencing an issue not listed here, please [contact support](mailto:support@hiway.media)."
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
