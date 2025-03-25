@@ -10,7 +10,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: hiway.media
-  baseUrl: status-check
+  baseUrl: /status-check
   logoUrl: https://github.com/HiWay-Media/status-check/blob/master/assets/logo_white.png?raw=true
   name: Status HiWay Media
   introTitle: "**HiWay Media** Status Dashboard."
