@@ -4,17 +4,17 @@
     "url": "https://hiway.media",
     "icon": "https://icons.duckduckgo.com/ip3/hiway.media.ico",
     "slug": "hiway-media-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 828,
-    "timeWeek": 902,
-    "timeMonth": 1034,
-    "timeYear": 1007,
+    "time": 996,
+    "timeDay": 685,
+    "timeWeek": 857,
+    "timeMonth": 1018,
+    "timeYear": 996,
     "dailyMinutesDown": {}
   }
 ]
