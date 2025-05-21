@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hiway.media.ico",
     "slug": "hiway-media-website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 1002,
-    "timeDay": 797,
-    "timeWeek": 961,
-    "timeMonth": 978,
-    "timeYear": 1002,
+    "uptimeYear": "99.98%",
+    "time": 997,
+    "timeDay": 678,
+    "timeWeek": 946,
+    "timeMonth": 958,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-05-06": 21
     }
