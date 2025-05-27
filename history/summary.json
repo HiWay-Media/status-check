@@ -24,19 +24,19 @@
     "url": "$COMPRESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "compress-website",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 567,
+    "timeDay": 567,
+    "timeWeek": 567,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-05-27": 5
+      "2025-05-27": 7
     }
   }
 ]
