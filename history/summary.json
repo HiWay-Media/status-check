@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 994,
-    "timeDay": 1384,
-    "timeWeek": 921,
-    "timeMonth": 964,
-    "timeYear": 994,
+    "time": 992,
+    "timeDay": 850,
+    "timeWeek": 943,
+    "timeMonth": 961,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2025-05-06": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "compress-website",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 537,
-    "timeDay": 526,
-    "timeWeek": 537,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 562,
+    "timeDay": 660,
+    "timeWeek": 562,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-05-27": 7
     }
