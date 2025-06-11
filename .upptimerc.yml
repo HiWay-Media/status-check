@@ -7,6 +7,8 @@ sites:
     url: https://hiway.media
   - name: Compress website
     url: $COMPRESS_URL
+  - name: Hiway Media API
+    url: $HIWAY_API_URL
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
