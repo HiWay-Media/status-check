@@ -39,5 +39,23 @@
       "2025-06-09": 8,
       "2025-05-27": 7
     }
+  },
+  {
+    "name": "Hiway Media API",
+    "url": "$HIWAY_API_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "hiway-media-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
+    "dailyMinutesDown": {}
   }
 ]
