@@ -1,7 +1,7 @@
 url: $HIWAY_API_URL
-status: down
-code: 403
-responseTime: 130
-lastUpdated: 2026-03-21T20:36:46.021Z
+status: up
+code: 200
+responseTime: 156
+lastUpdated: 2026-03-21T20:55:40.418Z
 startTime: 2025-06-11T15:23:22.498Z
 generator: Upptime <https://github.com/upptime/upptime>
