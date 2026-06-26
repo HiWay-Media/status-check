@@ -4,19 +4,18 @@
     "url": "https://hiway.media",
     "icon": "https://icons.duckduckgo.com/ip3/hiway.media.ico",
     "slug": "hiway-media-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "83.27%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.09%",
-    "uptimeYear": "99.25%",
-    "time": 915,
-    "timeDay": 1059,
-    "timeWeek": 994,
-    "timeMonth": 841,
+    "uptimeYear": "99.26%",
+    "time": 914,
+    "timeDay": 736,
+    "timeWeek": 908,
+    "timeMonth": 835,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2025-12-22": 19,
       "2025-12-23": 23,
       "2025-12-24": 17,
       "2025-12-25": 9,
@@ -87,7 +86,8 @@
       "2026-05-19": 182,
       "2026-05-31": 69,
       "2026-06-13": 87,
-      "2026-06-25": 241
+      "2026-06-25": 241,
+      "2026-06-26": 0
     }
   },
   {
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
-    "timeDay": 518,
-    "timeWeek": 441,
-    "timeMonth": 469,
+    "timeDay": 481,
+    "timeWeek": 454,
+    "timeMonth": 473,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2025-09-17": 5
@@ -115,19 +115,19 @@
     "url": "$HIWAY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hiway-media-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "83.28%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "98.87%",
-    "time": 145,
-    "timeDay": 483,
-    "timeWeek": 432,
-    "timeMonth": 158,
-    "timeYear": 146,
+    "time": 146,
+    "timeDay": 401,
+    "timeWeek": 422,
+    "timeMonth": 174,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-12-22": 57,
+      "2025-12-22": 38,
       "2025-12-24": 17,
       "2025-12-25": 9,
       "2025-12-27": 17,
@@ -197,7 +197,8 @@
       "2026-05-19": 182,
       "2026-05-31": 69,
       "2026-06-13": 87,
-      "2026-06-25": 241
+      "2026-06-25": 241,
+      "2026-06-26": 0
     }
   }
 ]
