@@ -4,16 +4,16 @@
     "url": "https://hiway.media",
     "icon": "https://icons.duckduckgo.com/ip3/hiway.media.ico",
     "slug": "hiway-media-website",
-    "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "94.49%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.17%",
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "91.20%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.16%",
     "time": 919,
-    "timeDay": 790,
-    "timeWeek": 968,
-    "timeMonth": 993,
+    "timeDay": 811,
+    "timeWeek": 964,
+    "timeMonth": 991,
     "timeYear": 910,
     "dailyMinutesDown": {
       "2025-12-28": 19,
@@ -86,7 +86,7 @@
       "2026-06-26": 120,
       "2026-07-09": 246,
       "2026-07-10": 74,
-      "2026-07-12": 79
+      "2026-07-12": 127
     }
   },
   {
@@ -114,16 +114,16 @@
     "url": "$HIWAY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hiway-media-api",
-    "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.79%",
+    "status": "up",
+    "uptime": "98.87%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "98.78%",
     "time": 158,
-    "timeDay": 405,
-    "timeWeek": 441,
-    "timeMonth": 373,
+    "timeDay": 385,
+    "timeWeek": 433,
+    "timeMonth": 372,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2025-12-28": 30,
@@ -196,7 +196,7 @@
       "2026-06-26": 120,
       "2026-07-09": 246,
       "2026-07-10": 73,
-      "2026-07-12": 79
+      "2026-07-12": 127
     }
   }
 ]
