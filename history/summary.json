@@ -4,19 +4,18 @@
     "url": "https://hiway.media",
     "icon": "https://icons.duckduckgo.com/ip3/hiway.media.ico",
     "slug": "hiway-media-website",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "97.25%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "99.11%",
-    "time": 921,
-    "timeDay": 1070,
-    "timeWeek": 1053,
-    "timeMonth": 1067,
-    "timeYear": 917,
+    "time": 922,
+    "timeDay": 788,
+    "timeWeek": 1110,
+    "timeMonth": 1063,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2026-01-02": 31,
       "2026-01-03": 42,
       "2026-01-04": 34,
       "2026-01-05": 60,
@@ -88,7 +87,8 @@
       "2026-07-20": 59,
       "2026-07-24": 102,
       "2026-07-26": 91,
-      "2026-07-29": 84
+      "2026-07-29": 84,
+      "2026-08-03": 0
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 677,
-    "timeWeek": 587,
-    "timeMonth": 572,
-    "timeYear": 556,
+    "time": 552,
+    "timeDay": 437,
+    "timeWeek": 531,
+    "timeMonth": 561,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-09-17": 5
     }
@@ -116,19 +116,18 @@
     "url": "$HIWAY_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hiway-media-api",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "98.11%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "98.72%",
-    "time": 170,
-    "timeDay": 476,
-    "timeWeek": 434,
-    "timeMonth": 428,
-    "timeYear": 174,
+    "time": 172,
+    "timeDay": 436,
+    "timeWeek": 453,
+    "timeMonth": 429,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-12-30": 23,
       "2026-01-02": 31,
       "2026-01-03": 42,
       "2026-01-04": 34,
@@ -201,7 +200,8 @@
       "2026-07-20": 59,
       "2026-07-24": 102,
       "2026-07-26": 91,
-      "2026-07-29": 83
+      "2026-07-29": 83,
+      "2026-08-03": 0
     }
   }
 ]
